@@ -115,5 +115,17 @@ Your Name - [Joy Michael] - joynalanda@gmail.com
 
 Project Link: [https://github.com/JoyMichael7842/LoadForecasting](https://github.com/your_username/repo_name)
 
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[build-shield]: https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square
+ 
+ 
+Leave a comment
 
+Attach files by dragging & dropping, selecting or pasting them.
+[build-url]: #
+[contributors-url]: https://github.com/JoyMichael7842/LoadForecasting
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/joy-michael/
+[product-screenshot]: https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/screenshot.png
 
